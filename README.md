@@ -20,3 +20,5 @@ The design medium is **HTML/CSS/JS** — these are prototypes, not production co
 
 - `python-tutor-website/README.md` — this file
 - `python-tutor-website/project/` — the `python tutor website` project files (HTML prototypes, assets, components)
+
+today is thursday
